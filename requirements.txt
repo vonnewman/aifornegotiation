@@ -1,0 +1,2 @@
+# Offline simulation uses only the Python standard library.
+# API experiments require Python 3.10+ and an OpenAI API key (no extra packages).
