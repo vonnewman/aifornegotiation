@@ -1,0 +1,3 @@
+﻿agent_role,agreement_rate,deadline_rate,empirical_cvar_10,mandate_violation_rate,mean_counterpart_utility,mean_joint_utility,mean_own_utility,mean_rounds,model,n,stop_rate,target_given_agreement,target_met_rate,utility_sd
+buyer,1.0,0.0,0.7761213235294118,0.0,0.18793106617647062,0.9753125,0.7873814338235294,3.05,pomdp_cvar_safe_q,80,0.0,1.0,1.0,0.012182560405199317
+seller,1.0,0.0,0.7522794117647059,0.0,0.17925569852941178,0.9506249999999999,0.7713693014705882,1.9875,pomdp_cvar_safe_q,80,0.0,1.0,1.0,0.028868570187825238
